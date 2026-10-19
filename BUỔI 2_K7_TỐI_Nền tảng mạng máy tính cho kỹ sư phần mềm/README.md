@@ -6,7 +6,7 @@
 
 ## 🗺️ 1. Sơ Đồ Tư Duy Tổng Quan (Mindmap)
 
-![Sơ đồ tư duy Nền tảng Mạng máy tính](./mindmap.png)
+file:///D:/workspace/DBI202/ASSIGNMENT/Gi%E1%BA%A3i_M%C3%A3_Ki%E1%BA%BFn_Tr%C3%BAc_Internet.pdf
 
 ---
 
