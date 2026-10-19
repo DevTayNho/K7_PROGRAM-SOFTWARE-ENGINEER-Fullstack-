@@ -6,7 +6,7 @@
 
 ## 🗺️ 1. Sơ Đồ Tư Duy Tổng Quan (Mindmap)
 
-https://notebook.google.com/notebook/
+[https://notebook.google.com/notebook/](https://notebook.google.com/notebook/)
 
 ---
 
