@@ -6,7 +6,7 @@
 
 ## 🗺️ 1. Sơ Đồ Tư Duy Tổng Quan (Mindmap)
 
-![Sơ đồ tư duy Mô hình OSI](./mindmap.png)
+https://notebook.google.com/notebook/
 
 ---
 
