@@ -6,7 +6,7 @@
 
 ## 🗺️ 1. Sơ Đồ Tư Duy Tổng Quan (Mindmap)
 
-https://notebook.google.com/notebook/bd6e166f-632b-430a-b4c1-fe039b6d88c6
+https://notebook.google.com/notebook/bd6e166f-632b-430a-b4c1-fe039b6d88c6/artifact/d06704d1-2a7a-43d4-b21e-bae4699fd274?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ---
 
